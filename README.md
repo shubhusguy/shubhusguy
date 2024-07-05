@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Data Structures & Algorithms, React, Java**
 
-- 💬 Ask me about **C++, Graphic Designing**
+- 💬 Ask me about **C++, Graphic Designing** 
 
 - 📫 How to reach me **shubhampote961@gmail.com**
 
